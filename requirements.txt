@@ -1,0 +1,32 @@
+annotated-types @ file:///C:/miniconda3/conda-bld/annotated-types_1761745045323/work
+anyio @ file:///C:/miniconda3/conda-bld/anyio_1758622439618/work
+click @ file:///C:/b/abs_bbg7qqz4dk/croot/click_1754477951021/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+dataclasses==0.6
+exceptiongroup @ file:///C:/miniconda3/conda-bld/exceptiongroup_1761560437674/work
+fastapi @ file:///C:/miniconda3/conda-bld/fastapi_1757101275585/work
+Flask==2.2.5
+h11 @ file:///C:/miniconda3/conda-bld/h11_1761931282349/work
+idna==3.10
+itsdangerous==2.2.0
+Jinja2==3.1.6
+joblib==1.5.1
+-e git+ssh://git@github.com/pratap-vj/Modular-Coding-ML-Project.git@f4660428e235362ee3ad32db48932d68af023d4b#egg=Machine_Learning_Project
+MarkupSafe==3.0.2
+numpy==1.23.5
+pandas==1.5.3
+pydantic==2.11.9
+pydantic_core==2.33.2
+python-dateutil==2.9.0.post0
+pytz==2025.2
+scikit-learn==1.2.2
+scipy==1.15.3
+six==1.17.0
+sniffio @ file:///C:/b/abs_3akdewudo_/croot/sniffio_1705431337396/work
+starlette @ file:///C:/miniconda3/conda-bld/starlette-recipe_1756910714150/work
+threadpoolctl==3.6.0
+typing-inspection==0.4.1
+typing_extensions @ file:///C:/b/abs_ecq8gc0vbm/croot/typing_extensions_1756281142218/work
+uvicorn @ file:///C:/b/abs_e17rwqwbyy/croot/uvicorn-split_1751615749218/work
+Werkzeug==3.1.3
+xgboost==3.0.2
